@@ -94,7 +94,7 @@ RETURN
    * Paste the full DAX expression above.
 
 3. **Rename the Table**
-   Name it `Data Dictionary` (or any preferred name).
+   to `Data Dictionary` (or any preferred name).
 
 4. **View the Results**
    You’ll now see a table listing:
